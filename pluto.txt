@@ -1,5 +1,3 @@
 hello pluto
 
 hello jupiter
-
-accidental commit
